@@ -15,7 +15,7 @@ Core Principles
 ### Applications
 What are cloud services and shadow IT?
 - Cloud Services: applications accessible anywhere with internet, allows rapid deployment and flexibility to scale and deploy.
-- Shadow IT *Risk001*: use of nonsanctioned applications that hasn't been reviewed against organization's security policies, potentially introducing risk to the organization.
+- ***Risk001 - Shadow IT*** : use of nonsanctioned applications that hasn't been reviewed against organization's security policies, potentially introducing risk to the organization.
 How to protect against shadow IT?
 - Microsoft recommends a continuous process
   ```
