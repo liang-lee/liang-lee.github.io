@@ -23,7 +23,7 @@ How to protect against shadow IT?
   ```
 
 ### Catalog of Risks mentioned so far - with personal notes and views
-***Risk001 Shadow IT***  
+***Risk001 - Shadow IT***  
   - __Comment__: Shadow IT is a issue caused by a combination of ease of access, low cost of entry to cloud services, and lack of employee awareness.  
   - __Real life scenario__: Using social media / messaging applications for business purpose | Subscribing to free online cloud services *harder to catch*  
   - __Risk Analysis__: Business impact | Business and personal data at risk | Compliance impact  
