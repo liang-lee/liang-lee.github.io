@@ -1,4 +1,6 @@
 # Study notes
+Wish list - DevOps | DevSecOps | Penetration Testing | SOC | Container security | Kubernetes | Infrastructure as Code | Cryptography 
+
 ## SC-100 Materials - Notes from Microsoft Learn
 Components of Zero Trust
 1. Identity
