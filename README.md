@@ -1,5 +1,6 @@
 # Study notes
 Wish list - DevOps | DevSecOps | Penetration Testing | SOC | Container security | Kubernetes | Infrastructure as Code | Cryptography 
+Stuff to figure out - API security, what is DKIM
 
 ## SC-100 Materials - Notes from Microsoft Learn
 Components of Zero Trust
